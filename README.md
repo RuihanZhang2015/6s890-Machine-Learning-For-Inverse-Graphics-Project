@@ -5,9 +5,9 @@ This project aims to refine 3D object poses by performing gradient descent to mi
 The figure_\*.py files and src/\* were created by us to compare the performence under different combinatons of loss functions and gradient descent hyperparameters.
 
 
-### Installation
+<!-- ### Installation
 <!-- - [theseus](https://github.com/facebookresearch/theseus#getting-started) -->
 - [pypose](https://github.com/pypose/pypose)
 - [pytorch3d](https://github.com/facebookresearch/pytorch3d/blob/main/INSTALL.md)
 - `pip install tqdm imageio imageio-ffmpeg lpips`
-
+ -->
