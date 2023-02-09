@@ -1,6 +1,6 @@
 # 6.S980 class project for multi view object pose refinement
 
-All the figure_*.py files and src/* were created by us.
+All the figure_\*.py files and src/\* were created by us.
 
 ### Installation
 <!-- - [theseus](https://github.com/facebookresearch/theseus#getting-started) -->
