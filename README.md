@@ -1,5 +1,4 @@
-# multi_view_pose_refine
-6.S980 class project for multi view object pose refinement
+# 6.S980 class project for multi view object pose refinement
 ## Install
 
 ### Prerequisites
