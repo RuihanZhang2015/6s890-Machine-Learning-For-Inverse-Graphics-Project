@@ -1,4 +1,4 @@
-# 6.S980 class project for multi view object pose refinement
+# 6.S980 multi view object pose refinement
 
 This project aims to refine 3D object poses by performing gradient descent to minimize the loss between the actual image and the rendered images. We also performed bundle adjustment in the pose refinement by taking  the images rendered from multiple cameras into consideration.
 
